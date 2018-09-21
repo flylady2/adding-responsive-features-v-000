@@ -47,4 +47,8 @@
   .border-right {
     border: 0;
   }
+  #details div {
+    height: auto;
+    padding-bttom: 20px;
+  }
 }
